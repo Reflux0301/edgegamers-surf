@@ -1,0 +1,185 @@
+"umc_mapcycle"
+{
+    "Tier 1" 
+    {
+    "display-template"  "{MAP} [T1]"
+    "maps_invote" "4"
+
+    "surf_ace" {}
+    "surf_akai_final_fix" {}
+    "surf_ameliorate" {}
+    "surf_andromeda" {}
+    "surf_aser" {}
+    "surf_astray" {}
+    "surf_aura" {}
+    "surf_aweles_inferno_fix" {}
+    "surf_beginner_ug" {}
+    "surf_beginner2" {}
+    "surf_beyond" {}
+    "surf_bonkers_v2" {}
+    "surf_borderlands" {}
+    "surf_boreas" {}
+    "surf_calycate_ksf" {}
+    "surf_calycate2" {}
+    "surf_casbah_fix" {}
+    "surf_colum_2" {}
+    "surf_colum_up" {}
+    "surf_corner" {}
+    "surf_crzyfrog_reloaded_refix" {}
+    "surf_deathstar" {}
+    "surf_decked" {}
+    "surf_deod_beta" {}
+    "surf_derpis_ksf" {}
+    "surf_dinwod" {}
+    "surf_easy1" {}
+    "surf_easy2" {}
+    "surf_enlightened" {}
+    "surf_escape_final" {}
+    "surf_forbidden_ways_ksf" {}
+    "surf_fornax" {}
+    "surf_frost" {}
+    "surf_garden_go" {}
+    "surf_het" {}
+    "surf_hourglass" {}
+    "surf_how2surf" {}
+    "surf_kitsune" {}
+    "surf_lament_n2p" {}
+    "surf_lighrust_easy" {}
+    "surf_lovetunnel" {}
+    "surf_lullaby_ksf" {}
+    "surf_lux" {}
+    "surf_me" {}
+    "surf_meridional" {}
+    "surf_mesa_revo_go" {}
+    "surf_mesa" {}
+    "surf_minuet_v1p" {}
+    "surf_mom_fix" {}
+    "surf_moonkingdom" {}
+    "surf_n_turf" {}
+    "surf_neon_beta" {}
+    "surf_nyx" {}
+    "surf_pantheon" {}
+    "surf_perennial_v2" {}
+    "surf_platypus_d" {}
+    "surf_pox_revamp" {}
+    "surf_prelude_ksf" {}
+    "surf_rebel_resistance_njv" {}
+    "surf_rebel_scaz_njv" {}
+    "surf_reprise" {}
+    "surf_reytx" {}
+    "surf_road_to_hell" {}
+    "surf_rooftopsv2" {}
+    "surf_rookie" {}
+    "surf_rookie2" {}
+    "surf_runner" {}
+    "surf_school_kzg" {}
+    "surf_singletons" {}
+    "surf_southpark_refix" {}
+    "surf_summit" {}
+    "surf_sundown_njv" {}
+    "surf_tendies" {}
+    "surf_training" {}
+    "surf_trance_ksf" {}
+    "surf_treasurehunt_go" {}
+    "surf_utopia_v3" {}
+    "surf_water-run_banjo_skill" {}
+    "surf_wew" {}
+    "surf_whiteout" {}
+    "surf_zoomathon" {}
+    }
+
+    "Tier 2"
+    {
+    "display-template"  "{MAP} [T2]"
+    "maps_invote" "2"
+
+    "surf_8bit" {}
+    "surf_anzchamps" {}
+    "surf_arcade" {}
+    "surf_aqua_fix" {}
+    "surf_aquaflow" {}
+    "surf_benevolent" {}
+    "surf_beverages_remix_go" {}
+    "surf_calzone" {}
+    "surf_classics" {}
+    "surf_classics2" {}
+    "surf_colors_final" {}
+    "surf_concreteideas" {}
+    "surf_crackdesert_evo2" {}
+    "surf_cyberwave" {}
+    "surf_deadline" {}
+    "surf_delusional_" {}
+    "surf_driftless_go" {}
+    "surf_eclipse" {}
+    "surf_eggplant" {}
+    "surf_ethereal" {}
+    "surf_exocube_fix" {}
+    "surf_flipv2_go" {}
+    "surf_flow" {}
+    "surf_fortum" {}
+    "surf_frey_remake_go" {}
+    "surf_fruits" {}
+    "surf_gleam" {}
+    "surf_gleam2" {}
+    "surf_graphia" {}
+    "surf_grassland" {}
+    "surf_guitar_hi" {}
+    "surf_harmony" {}
+    "surf_hearth_fix" {}
+    "surf_holiday_fix" {}
+    "surf_hotwheels" {}
+    "surf_illusion" {}
+    "surf_impact_tnn" {}
+    "surf_in_space_go" {}
+    "surf_interference_csgo" {}
+    "surf_island" {}
+    "surf_juturna"{}
+    "surf_kloakk" {}
+    "surf_lessons" {}
+    "surf_lockdown" {}
+    "surf_luminaris" {}
+    "surf_marbleblast_e" {}
+    "surf_mesa_mine" {}
+    "surf_minecraft_2020_fix" {}
+    "surf_neo_njv" {}
+    "surf_not_so_beginner" {}
+    "surf_not_so_neb" {}
+    "surf_nova" {}
+    "surf_oasis" {}
+    "surf_orthodox_fix" {}
+    "surf_paddy" {}
+    "surf_palm" {}
+    "surf_paradise" {}
+    "surf_physics" {}
+    "surf_premium" {}
+    "surf_progress" {}
+    "surf_ravine_go" {}
+    "surf_rez" {}
+    "surf_salvador" {}
+    "surf_sanctuary" {}
+    "surf_scorch_go" {}
+    "surf_seasons_fixed" {}
+    "surf_skipalot" {}
+    "surf_skyborn" {}
+    "surf_sodacity" {}
+    "surf_spacejam" {}
+    "surf_stonks" {}
+    "surf_summer" {}
+    "surf_the_gloaming_rat" {}
+    "surf_thicket" {}
+    "surf_zenith" {}
+    "surf_zor" {}
+    }
+
+    "Tier 3"
+    {
+    "display-template"  "{MAP} [T3]"
+
+    "surf_acp_fix" {}
+    "surf_heaven_njv" {}
+    "surf_meme" {}
+    "surf_slob" {}
+    "surf_telstar" {}
+    "surf_unraveled" {}
+    }
+}
